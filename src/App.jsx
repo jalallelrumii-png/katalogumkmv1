@@ -4,7 +4,7 @@ import { ShoppingCart, Plus, Minus, X, Check, ChevronRight, Package, Settings, S
 // ============================================================
 // ✅ URL SUDAH DIUPDATE ke deployment baru lo
 // ============================================================
-const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyas-NPiDzsIH9aIg5OtsP-29k_tIjWGPN7kIg6x3ZiY_h8vRO7MhIDS-nvu9lMLfo0CA/exec";
+const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwechypz-61FJWmdRC87qRD4ndrN-VC7pkVnivpIzBoXwSt64IpYjg7Dg_hwhhqJwg77g/exec";
 
 // ============================================================
 // API
