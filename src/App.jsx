@@ -10,7 +10,7 @@ import {
 // ⚙️  GANTI URL INI DENGAN URL APPS SCRIPT LO
 // Apps Script → Deploy → New Deployment → Web App → Copy URL
 // ============================================================
-const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxlcFoPBbbxWG-O5-ZykcMPCNPq7YPeQSgLWkGdjC2E8c2dRiMJ7HZG9sP9Q0wKGCYCWQ/exec";
+const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyas-NPiDzsIH9aIg5OtsP-29k_tIjWGPN7kIg6x3ZiY_h8vRO7MhIDS-nvu9lMLfo0CA/exec;
 
 // ============================================================
 // API
